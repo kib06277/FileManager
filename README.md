@@ -1,5 +1,7 @@
 # Filemanager
 
+Filemanager　基本款檔案管理員
+
 file_manager_modify　可修改版的檔案管理員
 
 手機 6.0 之後的補救辦法
